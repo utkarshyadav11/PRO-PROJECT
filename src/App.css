@@ -1,0 +1,43 @@
+.form-control{
+  border: 3px  solid #000000;
+  border-radius: 13px;
+}
+.card{
+  width: 30%;
+  border-radius: 10px;
+}
+.btn{
+  border: 2px  solid #87ed9a;
+  color:#87ed9a ;
+  border-radius: 13px;
+}
+.btn:hover{
+  border: 2px  solid #87ed9a;
+  color:#87ed9a ;
+  border-radius: 13px;
+  transition: all 0.4s ease-out;
+  box-shadow: 0px 8px 12px rgba(38, 38, 38, 0.4);
+  transform: scale(1.05);
+}
+
+.btn2{
+  margin: 0px 8px;
+  border: 2px  solid #28cddc;
+  color: #28cddc;
+  border-radius: 13px;
+}
+.btn2:hover{
+  border: 2px  solid #28cddc;
+  color: #28cddc;
+  border-radius: 13px;
+  transition: all 0.4s ease-out;
+  box-shadow: 0px 8px 12px rgba(38, 38, 38, 0.4);
+  transform: scale(1.05);
+}
+.preview{
+  color: darkmagenta;
+  font-size: 20px;
+}
+.heading{
+  text-align: center;
+}
